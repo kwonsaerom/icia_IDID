@@ -1,0 +1,139 @@
+.header {
+   text-align: center;
+}
+
+a.logo {
+   text-decoration: none;
+   font-weight: 600;
+}
+
+.flag h1 {
+   text-align: center;
+}
+
+.login-block {
+   width: 720px;
+   padding: 20px;
+   margin: 0 auto;
+}
+
+.login-block h1 {
+   text-align: center;
+   color: #000;
+   font-size: 18px;
+   text-transform: uppercase;
+   margin-top: 0;
+   margin-bottom: 20px;
+}
+
+.login-block input {
+   width: 100%;
+   height: 42px;
+   box-sizing: border-box;
+   border: 1px solid #ccc;
+   font-size: 14px;
+   font-family: Montserrat;
+   font-weight: 600;
+   outline: none;
+}
+input#updateSubmit{
+   width: 235px;
+   height: 61px;
+   background-color: lightsteelblue;
+   box-sizing: border-box;
+   border-radius: 5px;
+   border: 1px solid #e15960;
+   color: #fff;
+   font-weight: 900;
+   text-transform: uppercase;
+   font-size: 24px;
+   font-family: Montserrat;
+   outline: none;
+   cursor: pointer;
+}
+
+.login-block input:active, .login-block input:focus {
+   border: 1px solid #ff656c;
+}
+
+form #registSubmit {
+   width: 280px;
+   height: 61px;
+   background-color: #3b73cf;
+   box-sizing: border-box;
+   border-radius: 5px;
+   border: 1px solid #e15960;
+   color: #fff;
+   font-weight: 900;
+   text-transform: uppercase;
+   font-size: 24px;
+   font-family: Montserrat;
+   outline: none;
+   cursor: pointer;
+   text-align: center;
+   margin-top:25px;
+   margin-left: 225px;
+}
+
+#login {
+   text-align: center;
+   margin: auto;
+}
+
+.join-block {
+   text-align: center;
+}
+
+input.join {
+   width: 235px;
+   height: 61px;
+   background-color: #3b73cf;
+   box-sizing: border-box;
+   border-radius: 5px;
+   border: 1px solid #e15960;
+   color: #fff;
+   font-weight: 900;
+   text-transform: uppercase;
+   font-size: 24px;
+   font-family: Montserrat;
+   outline: none;
+   cursor: pointer;
+}
+.weight{
+   margin-left: 100px;
+}
+p#duplicate{
+   margin:0px;
+   text-align: center;
+   color: crimson;
+    font-weight: bolder;
+}
+input#gender1{
+   width: 20px;
+   height: 20px;
+   vertical-align: bottom;
+}
+input#gender2{
+   width: 20px;
+   height: 20px;
+   vertical-align: bottom;
+}
+form#updateSubmit{
+   width: 100%;
+   height: 61px;
+   background-color: #3b73cf;
+   box-sizing: border-box;
+   border-radius: 5px;
+   border: 1px solid #e15960;
+   color: #fff;
+   font-weight: 900;
+   text-transform: uppercase;
+   font-size: 24px;
+   font-family: Montserrat;
+   outline: none;
+   cursor: pointer;
+}
+p{
+   font-weight:bold;
+   margin-left:20px;
+}
