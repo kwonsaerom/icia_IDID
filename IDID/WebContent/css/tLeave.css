@@ -1,0 +1,76 @@
+p#duplicate {
+   margin: 0px;
+   text-align: center;
+   color: crimson;
+   font-weight: bolder;
+}
+h1{
+	text-align: center;
+}
+.container{
+	margin-left: 150px;
+}
+#delete{
+	width: 720px;
+	height:400px;
+	margin-left: 350px;
+	margin-top:100px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px 5px gray;
+	text-align: center;
+}
+#pw{
+	width: 600px;
+	height: 30px;
+	border-radius: 5px;
+	
+}
+#pw2{
+	width: 600px;
+	height: 30px;
+	border-radius: 5px;
+	
+}
+
+#btn1{
+	width: 235px;
+   	height: 61px;
+   	background-color: lightsteelblue;
+   	box-sizing: border-box;
+   	border-radius: 5px;
+   	border: 1px solid white;
+   	color: #fff;
+   	font-weight: 900;
+   	text-transform: uppercase;
+   	font-size: 24px;
+   	font-family: Montserrat;
+   	outline: none;
+   	cursor: pointer;
+}
+#btn2{
+	width: 235px;
+   	height: 61px;
+   	background-color: lightsteelblue;
+   	box-sizing: border-box;
+   	border-radius: 5px;
+   	border: 1px solid white;
+   	color: #fff;
+   	font-weight: 900;
+   	text-transform: uppercase;
+   	font-size: 24px;
+   	font-family: Montserrat;
+   	outline: none;
+   	cursor: pointer;
+}
+.leavebutton{
+	width: 700px;
+	text-align: center;
+}
+.id{
+	margin-left: 50px;
+	font-size: 25px;
+	font-weight: bolder; 
+}
+body{
+		font-family: 'Jeju Gothic', serif;
+	}
